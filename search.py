@@ -1,6 +1,6 @@
 from random import randint
 
-list = [] #создаем пустой список для сортировки пузырьком
+list = [] 
 opr_lin = 1
 iskomi_ind = 0
 opr_lin2 = 0
